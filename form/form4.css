@@ -1,0 +1,42 @@
+
+/* <div class="color-heading">
+<div class="account-pg4">Step1: Account</div>
+<div class="personal-details-pg4">Step2: Personal Details</div>
+<div class="Review-pg4">Step3: Your Review</div>
+</div> */
+
+.account-pg4 {
+    width: 843px;
+    background-color: rgb(18, 247, 67);
+}
+
+.personal-details-pg4 {
+    width: 843px;
+    background-color: rgb(18, 247, 67);
+}
+
+.Review-pg4 {
+    width: 843px;
+    background-color: rgb(159, 219, 247);
+}
+
+.button a {
+    text-align: center;
+    padding: 7px;
+    font-family: sans-serif;
+    height: 30px;
+    text-decoration: none;
+    line-height: 25px;
+    width: 100px;
+    color: white;
+    border-radius: 50px;
+    background-color: rgb(1, 1, 63);
+}
+
+.button a .fa {
+    background-color: white;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 3px;
+    color: rgb(1, 1, 63);
+}
